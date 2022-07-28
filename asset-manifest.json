@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f4408456.js",
+    "static/media/header-background.png": "/static/media/header-background.e63361af7576262596f6.png",
+    "static/media/owner.png": "/static/media/owner.68ca7728c768399a5294.png",
+    "static/media/messy-pomp.png": "/static/media/messy-pomp.8f725cded3043c13fa40.png",
+    "static/media/pompadour.png": "/static/media/pompadour.ae69ff24782d3901a5cc.png",
+    "static/media/slick-back.png": "/static/media/slick-back.0b9ca315bb7cd3e7cc35.png",
+    "static/media/man-bum.png": "/static/media/man-bum.739be82a37be6d08fa06.png",
+    "static/media/skin-fade.png": "/static/media/skin-fade.53444745b0d3f84c876c.png",
+    "static/media/logo-footer.png": "/static/media/logo-footer.58838267fbff982c6cf4.png",
+    "index.html": "/index.html",
+    "static/media/scissors.svg": "/static/media/scissors.114e2c3d9f89b307db05b47a2ca31995.svg",
+    "static/media/search-icon.svg": "/static/media/search-icon.b1f781b99ceaafb9c831949bb54ae3cd.svg",
+    "main.f4408456.js.map": "/static/js/main.f4408456.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f4408456.js"
+  ]
+}
