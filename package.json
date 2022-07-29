@@ -1,6 +1,7 @@
 {
   "name": "hairs",
   "version": "0.1.0",
+  "homepage": "ReactTraining-hairs/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
