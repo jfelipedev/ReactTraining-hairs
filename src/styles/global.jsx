@@ -20,7 +20,10 @@ time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;
+	vertical-align: baseline; 
+    scroll-behavior: smooth;
+    scroll-padding-top: 150px;
+
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -29,6 +32,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+    scroll-behavior: smooth;
 }
 ol, ul {
 	list-style: none;

@@ -10,12 +10,14 @@ export const Container = styled.footer`
   text-align: left;
   align-items: center;
 
+  .icon-map{
+    font-size:2rem;
+  }
   .timeStamp {
     font-size: 0.7rem;
   }
 
-  .tel-icon {
-  }
+
   .logo {
     text-align: center;
   }

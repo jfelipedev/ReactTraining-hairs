@@ -1,6 +1,5 @@
 import React from "react";
 import { MenuContent, MainMenu } from "./style"; 
-import SearchIcon from "../../assets/search-icon.svg" 
 
 function Menu() {
   return (
@@ -8,19 +7,19 @@ function Menu() {
       <MainMenu>
         <div className="menu">
         <li>
-          <a href=".about">Inicio</a>
+          <a href="#home">Inicio</a>
         </li>
         <li>
-          <a href=".about">Sobre</a>
+          <a href=".#about">Sobre</a>
         </li>
         <li>
-          <a href=".about">Contato</a>
+          <a href="#contact">Contato</a>
         </li>
         </div>
         <li>
-          <input type="text" placehold="Pesquise" id="" />
+          <input type="text" placehold="Pesquise"/>
         </li>
-        <li><a href="/"><img src={SearchIcon} alt="serach" className="search-icon"/></a></li>
+       
       </MainMenu>
     </MenuContent>
   );

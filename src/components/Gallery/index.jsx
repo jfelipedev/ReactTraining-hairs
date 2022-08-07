@@ -30,6 +30,18 @@ function Gallery (){
                 <a href='/'><img src={imgSrc} alt="cortes"/></a> 
                 <p>Lorem ipsum dolor sit amet.</p>  
             </div>
+            <div>
+                <a href='/'><img src={imgSrc} alt="cortes"/></a>
+                <p>Lorem ipsum dolor sit amet.</p>  
+            </div>
+            <div>
+                <a href='/'><img src={imgSrc} alt="cortes"/></a> 
+                <p>Lorem ipsum dolor sit amet.</p>  
+            </div>
+            <div>
+                <a href='/'><img src={imgSrc} alt="cortes"/></a> 
+                <p>Lorem ipsum dolor sit amet.</p>  
+            </div>
 
         </GallertContent>
     </Container>

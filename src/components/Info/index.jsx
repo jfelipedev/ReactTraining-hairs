@@ -6,7 +6,7 @@ function Info() {
   return (
     <Container>
       <ContainerContent>
-        <div className="about">
+        <div className="about" id="about">
           <h1>MORE THAN JUST A HAIRCUT</h1>
           <p>
             Focada em excelência, a Hairs conta com tudo que o homem moderno

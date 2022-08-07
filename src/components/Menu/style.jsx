@@ -12,20 +12,29 @@ export const MenuContent = styled.nav`
   justify-content: flex-end;
 `;
 
-export const MainMenu = styled.ul`
+export const MainMenu = styled.div`
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   padding-right: 0.5rem;
+  list-style: none;
+  text-decoration: none;
+  gap: 1.1rem;
 
   .menu {
     display: flex;
   }
-  
-  .search-icon{
-    width: 20px;
-    
-    padding: 0.5rem;
+
+  input {
+    border: 0;
+    border-bottom: 1px solid #696767;
+  }
+
+  input:focus {
+    border: 0;
+    outline: none;
+    border-bottom: 1px solid lightgrey;
   }
 
   .menu li a {

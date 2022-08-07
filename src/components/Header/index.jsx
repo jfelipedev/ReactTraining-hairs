@@ -5,7 +5,7 @@ import { Container, Content } from './style';
 function Header (){
     return <Container>
         <Content>
-        <img src={Banner} alt="banner"/>
+        <img src={Banner} alt="banner" id="home"/>
         </Content>
         </Container>    
 }

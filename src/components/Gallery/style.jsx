@@ -14,6 +14,8 @@ export const GallertContent = styled.div`
   grid-gap: 1rem;
   padding: 1rem;
   background: #fff;  
+  border-radius: 0.2rem;
+
   p {
     margin-bottom: 1rem;
   }
