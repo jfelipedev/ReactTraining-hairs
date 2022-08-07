@@ -28,13 +28,19 @@ export const MainMenu = styled.div`
 
   input {
     border: 0;
-    border-bottom: 1px solid #696767;
+    border-bottom: 1px solid #696767;    
+    padding-left: 20px;   
   }
 
   input:focus {
     border: 0;
     outline: none;
     border-bottom: 1px solid lightgrey;
+    padding-left: 20px;
+  }
+
+  .search-icon{
+    position: absolute;    
   }
 
   .menu li a {

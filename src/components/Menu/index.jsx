@@ -1,5 +1,7 @@
 import React from "react";
 import { MenuContent, MainMenu } from "./style"; 
+import { FaSearch } from "react-icons/fa";
+
 
 function Menu() {
   return (
@@ -17,7 +19,7 @@ function Menu() {
         </li>
         </div>
         <li>
-          <input type="text" placehold="Pesquise"/>
+         <i className="search-icon"><FaSearch /></i> <input type="text" placehold="Pesquise"/>
         </li>
        
       </MainMenu>
