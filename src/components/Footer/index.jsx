@@ -9,7 +9,7 @@ function Footer() {
   return (
     <Container>
       <div className="logo">
-        <a href="/">
+        <a href="#home">
           <img src={LogoFooter} alt="logo" />
         </a>
         <p className="timeStamp">{currentYear}©Todos os direitos reservados</p>

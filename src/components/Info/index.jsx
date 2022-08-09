@@ -19,7 +19,7 @@ function Info() {
           </p>
         </div>
         <div>
-        <a href="#home"><img src={OwnerPic} alt="owner" /></a>
+        <img src={OwnerPic} alt="owner" />
         </div>        
       </ContainerContent>
     </Container>

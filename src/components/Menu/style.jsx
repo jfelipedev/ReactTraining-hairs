@@ -28,8 +28,8 @@ export const MainMenu = styled.div`
 
   input {
     border: 0;
-    border-bottom: 1px solid #696767;    
-    padding-left: 20px;   
+    border-bottom: 1px solid #696767;
+    padding-left: 20px;
   }
 
   input:focus {
@@ -39,16 +39,17 @@ export const MainMenu = styled.div`
     padding-left: 20px;
   }
 
-  .search-icon{
-    position: absolute;    
+  .search-icon {
+    position: absolute;
   }
 
   .menu li a {
     text-decoration: none;
     color: #696767;
     font-weight: bold;
-    padding: 1rem;
-    height: 2rem;
+    padding: 1rem;    
+    background: white;
+    border-radius: 0.5rem;  
 
     transition: filter 0.2s;
 
